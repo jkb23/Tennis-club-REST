@@ -81,7 +81,7 @@ public class Utils {
 
     /**
      * validates customer's name
-     * it has to contain only letter and spaces and has to be 3 to 29 characters long
+     * it has to contain only letters and spaces and has to be 3 to 29 characters long
      * @param name name customer provided
      * @return true if the name is correct, otherwise false
      */
